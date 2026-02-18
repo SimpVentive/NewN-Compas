@@ -1,0 +1,87 @@
+<svg height="550" width="600">
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 20 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 70 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 120 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 170 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 220 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 270 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 320 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 370 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 420 l310 0" />
+</g>
+<g fill="none" stroke="#ddd" stroke-width="1">
+<path stroke-dasharray="5,5" d="M5 470 l310 0" />
+</g>
+<line x1="5" y1="0" x2="5" y2="520" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="5" y1="520" x2="320" y2="520" style="stroke:rgb(0,0,0);stroke-width:1" />
+
+<line x1="50" y1="20" x2="140" y2="70" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="140" y1="70" x2="170" y2="120" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="170" y1="120" x2="180" y2="170" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="180" y1="170" x2="170" y2="220" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="170" y1="220" x2="250" y2="270" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="250" y1="270" x2="130" y2="320" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="130" y1="320" x2="140" y2="370" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="140" y1="370" x2="130" y2="420" style="stroke:rgb(255,0,0);stroke-width:5" />
+<line x1="130" y1="420" x2="140" y2="470" style="stroke:rgb(255,0,0);stroke-width:5" />
+
+<line x1="50" y1="0" x2="50" y2="520" style="stroke:#999;stroke-width:1;opacity:0.2" />
+<line x1="100" y1="0" x2="100" y2="520" style="stroke:#999;stroke-width:1;opacity:0.2" />
+<line x1="150" y1="0" x2="150" y2="520" style="stroke:#999;stroke-width:1;opacity:0.2" />
+<line x1="200" y1="0" x2="200" y2="520" style="stroke:#999;stroke-width:1;opacity:0.2" />
+<line x1="250" y1="0" x2="250" y2="520" style="stroke:#999;stroke-width:1;opacity:0.2" />
+<line x1="300" y1="0" x2="300" y2="520" style="stroke:#999;stroke-width:1;opacity:0.2" />
+
+
+
+
+<text x="320" y="25" fill="#666" >5 - Opportunity Seeking</text>
+<text x="320" y="75" fill="#666" >14 - Persistence</text>
+<text x="320" y="125" fill="#666" >17 - Commitment to Work Contract</text>
+<text x="320" y="175" fill="#666" >18 - Demand for Efficiency and Quality</text>
+<text x="320" y="225" fill="#666" >17 - Risk Taking</text>
+<text x="320" y="275" fill="#666" >25 - Goal Setting</text>
+<text x="320" y="325" fill="#666" >13 - Information Seeking</text>
+<text x="320" y="375" fill="#666" >14 - Systematic Planning and monitoring</text>
+<text x="320" y="425" fill="#666" >13 - Persuasion and Networking</text>
+<text x="320" y="475" fill="#666" >14 - Self-Confidence</text>
+<text x="0" y="540" fill="#666" >0</text>
+<text x="45" y="540" fill="#666" >5</text>
+<text x="95" y="540" fill="#666" >10</text>
+<text x="145" y="540" fill="#666" >15</text>
+<text x="195" y="540" fill="#666" >20</text>
+<text x="245" y="540" fill="#666" >25</text>
+<text x="295" y="540" fill="#666" >30</text>
+
+<circle cx="50" cy="20" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="140" cy="70" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="170" cy="120" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="180" cy="170" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="170" cy="220" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="250" cy="270" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="130" cy="320" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="140" cy="370" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="130" cy="420" r="5" stroke="black" stroke-width="3" fill="red" />
+<circle cx="140" cy="470" r="5" stroke="black" stroke-width="3" fill="red" />
+
+
+
+  Sorry, your browser does not support inline SVG.
+</svg>
