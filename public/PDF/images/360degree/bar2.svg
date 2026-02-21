@@ -1,0 +1,55 @@
+<svg class="britechart grouped-bar" width="390" height="310">
+    <g class="container-group" transform="translate(70,40)">
+        <g class="x-axis-group">
+            <g class="x axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle" transform="translate( 0, 250 )">
+                <path class="domain" stroke="#000" d="M0.5,6V0.5H310.5V6"></path>
+                <g class="tick" opacity="1" transform="translate(125,0)">
+                    <line stroke="#000" y2="6"></line>
+                    <text fill="#000" y="9" dy="0.71em">Employee Role</text>
+                </g>
+            </g>
+            <g class="month-axis"></g>
+        </g>
+        <g class="y-axis-group axis" transform="translate( 0, 0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
+            <path class="domain" stroke="#000" d="M-6,250H0.5V0.5H-6"></path>
+            <g class="tick" opacity="1" transform="translate(0,250)">
+                <line stroke="#000" x2="-6"></line>
+                <text fill="#000" x="-9" dy="0.32em" transform="translate(-20, -8)">0</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,200)">
+                <line stroke="#000" x2="-6"></line>
+                <text fill="#000" x="-9" dy="0.32em" transform="translate(-20, -8)">2.5</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,150)">
+                <line stroke="#000" x2="-6"></line>
+                <text fill="#000" x="-9" dy="0.32em" transform="translate(-20, -8)">5</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,100)">
+                <line stroke="#000" x2="-6"></line>
+                <text fill="#000" x="-9" dy="0.32em" transform="translate(-20, -8)">7.5</text>
+            </g>
+            <g class="tick" opacity="1" transform="translate(0,50)">
+                <line stroke="#000" x2="-6"></line>
+                <text fill="#000" x="-9" dy="0.32em" transform="translate(-20, -8)">10</text>
+            </g>            
+        </g>
+        <g class="y-axis-label"></g>
+
+        <g class="chart-group">
+            <g transform="translate(17,0)" class="layer">
+                <rect class="bar" x="6" y="220" width="41" fill="#bce02e" style="opacity: 1;" height="30"></rect>
+                <rect class="bar" x="51" y="50" width="41" fill="#ffaa12" style="opacity: 1;" height="200"></rect>
+                <rect class="bar" x="96" y="130" width="41" fill="#ffce00" style="opacity: 1;" height="120"></rect>
+                 <rect class="bar" x="141" y="170" width="41" fill="#b02ee0" style="opacity: 1;" height="80"></rect>
+                <rect class="bar" x="186" y="80" width="41" fill="#0fa7fa" style="opacity: 1;" height="170"></rect>
+                <rect class="bar" x="231" y="100" width="41" fill="#f866b9" style="opacity: 1;" height="150"></rect>
+            </g>
+        </g>
+    </g>
+    <text x="110" y="250" fill="black">1.7</text>
+    <text x="150" y="80" fill="black">10</text>
+    <text x="199" y="160" fill="black">6</text>
+    <text x="245" y="200" fill="black">4</text>
+    <text x="285" y="110" fill="black">8.5</text>
+    <text x="330" y="130" fill="black">7.5</text>
+</svg>
